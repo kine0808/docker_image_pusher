@@ -3,3 +3,4 @@ zabbix/zabbix-server-pgsql:ubuntu-7.0-latest
 zabbix/zabbix-web-nginx-pgsql:ubuntu-7.0-latest
 zabbix/zabbix-agent2:ubuntu-7.0-latest
 postgres:16
+hello-world
